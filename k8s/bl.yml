@@ -25,7 +25,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/mu853/citest:e3da3fd250dd3d7b866ff4b3742f5111988a4cbd
+      - image: docker.io/mu853/citest:0bfbb6cf0f5b271d5233490e9d4e15a4a7bf6f0a
         name: blue
         ports:
           - containerPort: 80
